@@ -1,4 +1,4 @@
-n = int(input("Сколько строк треугольника Паскаля вывести ? "))
+n = int(input("How much lines of Pascal Triangle to print ? "))
 # making a triangle matrix of t
 t = [[1]]
 for i in range(1,n):
